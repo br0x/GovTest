@@ -1,0 +1,18 @@
+{
+  "type": 3,
+  "version": 2,
+  "senderPublicKey": "J6bcbr8r9usSLYw72NzzrKVCvKDDLe1uDx8bnWp3uFAV",
+  "name": "VOTE",
+  "description": "Governance test asset",
+  "quantity": 4200000000000000,
+  "script": null,
+  "decimals": 8,
+  "reissuable": false,
+  "fee": 100000000,
+  "timestamp": 1672220562000,
+  "chainId": 84,
+  "proofs": [
+    "2B9XumKZoy3AKB8S2FtMPprQp7PuxZCHK3ay7ViCMG5hrJfE4N9mjt7hgaPm2vpQWo8n2FTDDSH5zg1PeeyRzT8X"
+  ],
+  "id": "R9F63JMou2PhwhXLMbB4uzBVbu9fsBe4sYSK3ZX2nXU"
+}
