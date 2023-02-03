@@ -1,15 +1,14 @@
 [{
   "type": 12,
   "version": 2,
-  "senderPublicKey": "242mibE5dTci8wD6vghuCGxjDZdnNJr88H7gcWWehpEX",
+  "senderPublicKey": "6mzmbCza9iqbzxMEELcEA4Xc9NeF4CYpbTtz1zMK3C7x",
   "fee": 100000,
   "feeAssetId": null,
   "timestamp": 1675421400000,
   "proofs": [
-    "VighivqVtZrWr28sJeU7quZ1Gxj9rsQUF6HYZCmMGQFLQZiw77Ew3bnQzevMa8b29awwfbbAJa4uhioLgvkj1bx"
   ],
   "chainId": 84,
-  "id": "72EbQZmyDjxpP5uZEwGi68BSbemW1d1yD3uruoxUfhEQ",
+  "id": "HMhVdpLNUBLY35DpQW6KowyDoB98ccBb5qN7kfow96EE",
   "data": [
     {
       "key": "%s%s__quorumRequired__IDEA",
